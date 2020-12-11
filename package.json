@@ -1,6 +1,6 @@
 {
-  "name": "@y3gfe/lint-config",
-  "version": "0.1.10",
+  "name": "packi-lint-config",
+  "version": "0.1.11",
   "description": "常用lint与代码排版规则",
   "main": "eslintrc.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yusangeng/lint-config"
+    "url": "https://github.com/yusangeng/packi-lint-config"
   },
   "author": {
     "name": "yusangeng",
